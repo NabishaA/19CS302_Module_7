@@ -44,14 +44,12 @@ printf("Data added Successfully");
 ## Output:
 ```
 Hospital.txt
-2
-90
-80
+Hospital.txt File Created Successfully
+Hospital.txt File Opened
+Hospital.txt File Closed
 
-Hospital.txt Opened
-Data added Successfully
 
-===Code Execution Successfull===
+=== Code Execution Successfull ===
 ```
 
 
